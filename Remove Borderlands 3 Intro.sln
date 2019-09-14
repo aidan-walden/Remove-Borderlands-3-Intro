@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Borderlands 3 Intro", "Remove Borderlands 3 Intro\Remove Borderlands 3 Intro.csproj", "{8F7BAFB0-8541-47F5-94E2-9F36F0F85358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7BAFB0-8541-47F5-94E2-9F36F0F85358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7BAFB0-8541-47F5-94E2-9F36F0F85358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7BAFB0-8541-47F5-94E2-9F36F0F85358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7BAFB0-8541-47F5-94E2-9F36F0F85358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA37670-94EC-4DA9-BAB8-7F6C2B18EE95}
+	EndGlobalSection
+EndGlobal

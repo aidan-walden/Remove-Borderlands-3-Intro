@@ -1,0 +1,9 @@
+C:\Users\Aidan\source\repos\Remove Borderlands 3 Intro\Remove Borderlands 3 Intro\bin\Release\Remove Borderlands 3 Intro.exe.config
+C:\Users\Aidan\source\repos\Remove Borderlands 3 Intro\Remove Borderlands 3 Intro\bin\Release\Remove Borderlands 3 Intro.exe
+C:\Users\Aidan\source\repos\Remove Borderlands 3 Intro\Remove Borderlands 3 Intro\bin\Release\Remove Borderlands 3 Intro.pdb
+C:\Users\Aidan\source\repos\Remove Borderlands 3 Intro\Remove Borderlands 3 Intro\obj\Release\Remove_Borderlands_3_Intro.Form1.resources
+C:\Users\Aidan\source\repos\Remove Borderlands 3 Intro\Remove Borderlands 3 Intro\obj\Release\Remove_Borderlands_3_Intro.Properties.Resources.resources
+C:\Users\Aidan\source\repos\Remove Borderlands 3 Intro\Remove Borderlands 3 Intro\obj\Release\Remove Borderlands 3 Intro.csproj.GenerateResource.cache
+C:\Users\Aidan\source\repos\Remove Borderlands 3 Intro\Remove Borderlands 3 Intro\obj\Release\Remove Borderlands 3 Intro.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\source\repos\Remove Borderlands 3 Intro\Remove Borderlands 3 Intro\obj\Release\Remove Borderlands 3 Intro.exe
+C:\Users\Aidan\source\repos\Remove Borderlands 3 Intro\Remove Borderlands 3 Intro\obj\Release\Remove Borderlands 3 Intro.pdb
